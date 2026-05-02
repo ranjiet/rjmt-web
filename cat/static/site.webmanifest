@@ -1,0 +1,16 @@
+{
+  "name": "Cassy's Artisanal Treats",
+  "short_name": "Cassy's Treats",
+  "description": "Fresh, homemade treats made with love.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8f5",
+  "theme_color": "#f7d6dc",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

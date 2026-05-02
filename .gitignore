@@ -1,0 +1,19 @@
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local temp/build junk
+tmp/
+dist/
+.cache/
+
+# Secrets, just in case
+.env
+*.env
+
+#PY VENV
+venv
+venv/
+.venv
+.venv/
